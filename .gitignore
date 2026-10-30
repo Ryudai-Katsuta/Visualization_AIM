@@ -1,0 +1,16 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Data and figures
+data/
+output/
+
+# Local libraries and temporary files
+Rlib/
+tmp/
+
+# AI agent settings
+.agents/
